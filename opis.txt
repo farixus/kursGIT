@@ -12,3 +12,5 @@ git push -u origin main
 git remote add origin git@github.com:farixus/kursGIT.git
 git branch -M main
 git push -u origin main
+
+cos zmienimy
